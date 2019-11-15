@@ -47,7 +47,7 @@
     "babel-plugin-transform-react-remove-prop-types": "^0.4.20",
     "babel-plugin-universal-import": "^3.0.2",
     "case-sensitive-paths-webpack-plugin": "^2.1.2",
-    "chalk": "^2.4.1",
+    "chalk": "^3.0.0",
     "chokidar": "^2.0.4",
     "circular-dependency-plugin": "^5.0.2",
     "cors": "^2.8.5",
